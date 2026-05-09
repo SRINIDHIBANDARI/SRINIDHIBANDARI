@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Srinidhi%20Bandari&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Front%20End%20Developer%20|%20ML%20%26%20Robotics%20Enthusiast&descAlignY=58&descSize=18&descColor=C9D1D9"/>
-</p>
+
 
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Srinidhi Bandari
