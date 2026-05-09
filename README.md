@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Srinidhi%20Bandari&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Front%20End%20Developer%20|%20ML%20%26%20Robotics%20Enthusiast&descAlignY=58&descSize=18&descColor=C9D1D9"/>
+</p>
+
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Srinidhi Bandari
 </h1>
@@ -7,22 +11,22 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Web+Development+and+AI.;Building+Smart+and+Interactive+Applications.;React+JS+%7C+Machine+Learning+%7C+Robotics.;Always+learning+something+new!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Web+Development+and+AI.;Building+Smart+and+Interactive+Applications.;React+JS+%7C+Machine+Learning+%7C+Robotics.;Always+learning+something+new!">
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/SRINIDHIBANDARI">
-    <img src="https://komarev.com/ghpvc/?username=SRINIDHIBANDARI&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=SRINIDHIBANDARI&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
   </a>
 
   <a href="https://www.linkedin.com/in/srinidhi31/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:srinidhibandari3106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -42,16 +46,16 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=3FB950"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 
 </p>
 
@@ -95,20 +99,20 @@ Interactive front-end application using React JS and Tailwind CSS with integrate
 
 <p align="center">
   <a href="https://github.com/SRINIDHIBANDARI">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/srinidhi31/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:srinidhibandari3106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B0082&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer"/>
 </p>
